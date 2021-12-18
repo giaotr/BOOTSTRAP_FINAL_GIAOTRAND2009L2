@@ -1,0 +1,59 @@
+.container-fluid {
+    color: brown;
+    font-size: 18pt
+}
+
+.menu ul {
+    display: flex;
+    list-style: none;
+    display: flex;
+}
+
+.menu li {
+    margin-left: 40px;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(158, 137, 106);
+}
+
+.menu li a:hover {
+    color: rgb(156, 133, 102);
+    font-weight: 700;
+}
+
+.active {
+    font-weight: 700 !important;
+}
+
+.dropdown {
+    color: rgb(158, 137, 106);
+}
+
+.navbar-nav {
+    color: rgb(158, 137, 106);
+}
+
+.nav-item li a {
+    color: rgb(158, 137, 106);
+}
+
+.text-box p {
+    font-size: 21px;
+    margin: 24px 0 67px;
+}
+
+.cao {
+    height: 500px;
+}
+
+.h1 {
+    font-size: 100pt;
+}
+
+.bg-footer {
+    background: rgb(100, 100, 100);
+}
